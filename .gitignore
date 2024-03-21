@@ -1,2 +1,8 @@
 build*
 *.user
+*.eps
+\#*#
+~*
+_*
+*-backups
+*.bak

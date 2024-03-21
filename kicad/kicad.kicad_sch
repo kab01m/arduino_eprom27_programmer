@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b8033ce9-ba25-4e47-95e8-10bc4b45a8e3")
+	(paper "User" 292.1 205.105)
+	(lib_symbols)
+	(sheet
+		(at 0 -382.27)
+		(size 290.83 173.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b436f806-0011-461c-bff1-5151587fbd52")
+		(property "Sheetname" "EPROM27"
+			(at 0 -382.9816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eprom27.kicad_sch"
+			(at 0 -207.6954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "kicad"
+				(path "/b8033ce9-ba25-4e47-95e8-10bc4b45a8e3"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 0 -196.85)
+		(size 290.83 189.23)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c896e2c5-d9e1-4a19-ab69-3fa458685231")
+		(property "Sheetname" "Arduino"
+			(at 0 -197.5616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "arduino.kicad_sch"
+			(at 0 -7.0354 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "kicad"
+				(path "/b8033ce9-ba25-4e47-95e8-10bc4b45a8e3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "0")
+		)
+	)
+)
