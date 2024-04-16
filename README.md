@@ -17,6 +17,8 @@ Supported chips:
 
 Order PCB from gerber files, assemble the board. Use BOM to find components.
 
+If non-Arduino MCU was used you have to flash bootloader from Arduino IDE using ICSP connector. 
+
 If first time assembled you have to load sketch.ino into Arduino IDE and flash your Arduino.
 
 Always check programming voltage before inserting new chip to program.

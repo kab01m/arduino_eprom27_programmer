@@ -1,8 +1,13 @@
 build*
 *.user
 *.eps
+*.png
 \#*#
 ~*
 _*
 *-backups
 *.bak
+*PCB*
+gerber/
+*.pdf
+*.csv
